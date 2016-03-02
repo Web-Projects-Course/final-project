@@ -4,5 +4,5 @@ For the final project you will submit a proposal for a work of your own choosing
 
 In addition to the final critique you will submit a proposal and working critique. Your proposal should include a one paragraph written summary, a one sentence description, a map or diagram of the website. For technical aspects of your project you should include a list of functional parts or features that the work will have.
 
-Beyond a description of the work itself please describe your technical and artistic goals for the project. What do you hope to learn from the work.
+Beyond a description of the work itself please describe your technical and artistic goals for the project. What do you hope to learn from the work? What will make it successful?
 
