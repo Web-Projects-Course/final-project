@@ -11,6 +11,6 @@ In summary your proposal should include the following:
   * One sentence description of the project.
   * Map or diagram of the project (webpages, screens, views etc.) Other sketches are welcome.
   * List of features/functional parts
-  * Artistics/design goals
+  * Artistic/design goals
   * Technical goals
 
