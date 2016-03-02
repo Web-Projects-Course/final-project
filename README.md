@@ -6,10 +6,10 @@ In addition to the final critique you will submit a proposal and working critiqu
 
 Beyond a description of the work itself please describe your technical and artistic goals for the project. What do you hope to learn from the work? What will make it successful?
 
-In summary include the following:
+In summary your proposal should include the following:
   * One paragraph summary of the project.
   * One sentence description of the project.
-  * Map or diagram of the project (webpages, screens, views etc.)
+  * Map or diagram of the project (webpages, screens, views etc.) Other sketches are welcome.
   * List of features/functional parts
   * Artistics/design goals
   * Technical goals
