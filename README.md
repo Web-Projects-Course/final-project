@@ -6,6 +6,8 @@ In addition to the final critique you will submit a proposal and we will conduct
 
 Beyond a description of the work itself please describe your technical and artistic goals for the project. What do you hope to learn from the work? What will make it successful?
 
+Your proposal should take for the form of a multipage(3-4 HTML documents) website. I have created a stub file, you can use as a template for your files.
+
 In summary your proposal should include the following:
   * One paragraph summary of the project.
   * One sentence description of the project.
@@ -13,4 +15,5 @@ In summary your proposal should include the following:
   * List of features/functional parts
   * Artistic/design goals
   * Technical goals
+  * Links to similar projects or inspiration on the web.
 
